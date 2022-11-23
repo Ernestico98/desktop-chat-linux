@@ -12,4 +12,5 @@ gcc -o client client.o -pthread
 
 Run ./server and/or ./client and follow the appearing instructions.
 
+Check the [demo video](https://github.com/Ernestico98/desktop-chat-linux/blob/master/demo-video.mkv) for details and usage demonstration.
 
